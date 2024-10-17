@@ -31,14 +31,6 @@ Este projeto demonstra como criar um chatbot simples usando Python. O chatbot po
 3. Execute o chatbot utilizando o comando `python chat.py`;
 4. Interaja com o chatbot fornecendo perguntas e informações.
 
-**Imagem do Autor no Instagram**
-
-[![Imagem do Autor no Instagram](https://www.instagram.com/eriick.pereiraa/)](https://www.instagram.com/eriick.pereiraa/)
-
-**Imagem do Autor no GitHub**
-
-[![Imagem do Autor no GitHub](https://github.com/ecksouza)](https://github.com/ecksouza)
-
 **Licença**
 
 Este projeto é disponibilizado sob a licença MIT.
